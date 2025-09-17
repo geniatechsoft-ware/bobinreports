@@ -1,0 +1,19 @@
+{
+  "reportId": "f5f98024-58ad-430e-9c7d-d3eff97c9e2c",
+  "name": "rapor5 - Kopya",
+  "category": "Maliyet",
+  "description": "Rapor açıklamujrytuası (opsiyonel)...",
+  "version": 1,
+  "queryTemplate": "",
+  "parameters": [],
+  "chartDefinition": null,
+  "requiredTables": [],
+  "minDatabaseVersion": "1.0.0",
+  "IsSystemReport": true,
+  "IsCustomReport": false,
+  "CreatedDate": "2025-09-17T22:43:21.1620139+03:00",
+  "CreatedBy": null,
+  "ModifiedDate": null,
+  "ModifiedBy": null,
+  "IsActive": true
+}
