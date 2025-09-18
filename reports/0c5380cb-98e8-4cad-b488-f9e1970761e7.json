@@ -1,0 +1,13 @@
+{
+  "reportId": "0c5380cb-98e8-4cad-b488-f9e1970761e7",
+  "name": "deneme1",
+  "category": "Üretim",
+  "description": "Rapor açıklaması (opsiyonel)...",
+  "version": 1,
+  "queryTemplate": null,
+  "dashboardXml": null,
+  "parameters": [],
+  "chartDefinition": null,
+  "requiredTables": [],
+  "minDatabaseVersion": "1.0.0"
+}
